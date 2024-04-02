@@ -40,8 +40,5 @@ conda activate xxxEnv
 jupyter notebook
 ```
 
-## 🌐 Dataset
-- [Link]([https](https://github.com/gordonkwokkwok/Canada-SinaLite-Business-Analysis/blob/main/cleaned.csv)) ; or
-
 ## 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
