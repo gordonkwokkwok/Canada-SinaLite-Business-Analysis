@@ -1,14 +1,18 @@
-# ⭐️ Project Title
+# ⭐️ Canada-SinaLite-Business-Analysis (3 Hours)
 
 <p align="center">
-Add a Image
+![image](https://github.com/gordonkwokkwok/Canada-SinaLite-Business-Analysis/assets/112631794/71b1cff7-c16a-4614-8b8b-d8e45a22b3ac)
+
 </p>
 
 ## 📚 Introduction
-Write an introduction for this project.
+This project entails analyzing the business data of SinaLite, a prominent printing company in Canada. By delving into their operational data, we aim to uncover valuable insights into their product range, customer preferences, and market dynamics. This analysis will provide a comprehensive view of SinaLite's business landscape, aiding in strategic decision-making and market positioning.
 
 ## 🎯 Objective
-Write some objectives for this project.
+- Web Scraping: Perform web scraping on the SinaLite website to extract relevant business data, including product details, customer reviews, and pricing information.
+- Product Category Analysis: Investigate the distribution and popularity of different product categories offered by SinaLite.
+- Customer Preference Study: Explore the correlation between product attributes (e.g., paper type, coating, color) and customer reviews to understand customer preferences.
+- Data Visualization: Utilize Tableau to visually represent the analyzed data, making it easier to interpret and present the findings effectively.
 
 ## 📋 Prerequisite
 Creating a virtual environment is recommended for projects, and either venv or conda can be used based on personal preference. After creating the virtual environment, it is necessary to activate it before installing any required libraries. This project created a virtual environment called "xxxEnv"
@@ -16,6 +20,7 @@ Creating a virtual environment is recommended for projects, and either venv or c
 ### 🔧 Tool
 - Python (Version: 3.9.6)
 - Git (Version: 2.23.0)
+- Selenium
 
 Use following command to check version
 ```
@@ -26,9 +31,7 @@ git --version
 ### 📖 Library
 Use following command to install the following libraries:
 ```
-pip3 install numpy
-pip3 install pandas
-pip3 install matplotlib
+pip3 install Senlenium
 ```
 
 ## ⚙️ Command to run the project:
@@ -38,21 +41,7 @@ jupyter notebook
 ```
 
 ## 🌐 Dataset
-- [Link](https) ; or
-- [Download Here](https)
+- [Link]([https](https://github.com/gordonkwokkwok/Canada-SinaLite-Business-Analysis/blob/main/cleaned.csv)) ; or
 
 ## 👥 Contributer
 - [Gordon Kwok](https://www.linkedin.com/in/gordonkwokch/)
-
-## 🤝 Acknowledgments
-
-I would like to express our gratitude to the following individuals and organizations for their contributions and support in making this project possible:
-
-- [Name of Contributor/Organization 1](https://example.com): Description of their contribution or support.
-
-I am thankful for their valuable input, feedback, and assistance throughout the development process. Their expertise and dedication have greatly enhanced the quality and functionality of this project.
-
-## 💪 Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gordonhei25)
-
-Give a ⭐️ if this project helped you!
