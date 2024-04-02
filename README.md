@@ -1,8 +1,8 @@
 # ⭐️ Canada-SinaLite-Business-Analysis (3 Hours)
 
-<p align="center">
-![image](https://github.com/gordonkwokkwok/Canada-SinaLite-Business-Analysis/assets/112631794/71b1cff7-c16a-4614-8b8b-d8e45a22b3ac)
 
+<p align="center">
+  <img src="https://github.com/gordonkwokkwok/Canada-SinaLite-Business-Analysis/assets/112631794/dc5c25ba-c274-4350-bcc9-7aba47b5ce38" alt="Image Description">
 </p>
 
 ## 📚 Introduction
